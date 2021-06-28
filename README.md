@@ -1,5 +1,5 @@
 # Stocks Portfolio Optimization and Allocation
-Portfolio optimization of some blue-chip stocks data using modern portfolio theory
+Portfolio optimization of some blue-chip stocks data using the Modern Portfolio Theory (MDT)
 
 List of companies in the S&P 500 (Standard and Poor's 500). The S&P 500 is a
 free-float, capitalization-weighted index of the top 500 publicly listed stocks
